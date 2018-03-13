@@ -1,4 +1,4 @@
 main(){
-fuction = temp(){
+fuction = temp(2){
 }
 }
